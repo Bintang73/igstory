@@ -27,7 +27,7 @@ npm start
 
 ---------
 
-## HOW TO GET COOKIE AND SET TO CONIG.JSON?
+## HOW TO GET COOKIE AND SET TO CONFIG.JSON?
 * Go to Instagram website (login via pc) [`Click Here`](https://instagram.com)
 * Login with your account instagram
 * Right click on the mouse and select inspect like image bellow
