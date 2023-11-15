@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-fetch": "^2.7.0",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "igstory",
+  "version": "1.1.1",
+  "description": "Downloader story from instagram",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/bintang73/igstory"
+  },
+  "keywords": [
+    "igstory"
+  ],
+  "author": "bintang73",
+  "license": "ISC"
+}
